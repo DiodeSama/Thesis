@@ -1,0 +1,66 @@
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  60%|██████    | 3/5 [00:00<00:00, 18.23it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00,  7.31it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00,  8.19it/s]
+/home/dio/.local/lib/python3.10/site-packages/albumentations/__init__.py:28: UserWarning: A new version of Albumentations is available: '2.0.6' (you have '2.0.5'). Upgrade using: pip install -U albumentations. To disable automatic update checks, set the environment variable NO_ALBUMENTATIONS_UPDATE to 1.
+  check_for_updates()
+libEGL warning: egl: failed to create dri2 screen
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1746200952.186043   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200952.190425   67166 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1746200952.193957   67144 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  5.13it/s] 33%|███▎      | 3/9 [00:00<00:00,  8.10it/s] 56%|█████▌    | 5/9 [00:00<00:00,  8.97it/s] 78%|███████▊  | 7/9 [00:00<00:00,  9.41it/s] 89%|████████▉ | 8/9 [00:00<00:00,  9.52it/s]100%|██████████| 9/9 [00:00<00:00,  9.85it/s]
+I0000 00:00:1746200953.624586   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200953.626391   67191 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200953.629706   67182 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:03,  2.47it/s] 22%|██▏       | 2/9 [00:00<00:01,  4.40it/s] 44%|████▍     | 4/9 [00:00<00:00,  6.79it/s] 56%|█████▌    | 5/9 [00:00<00:00,  6.94it/s] 67%|██████▋   | 6/9 [00:00<00:00,  7.10it/s] 78%|███████▊  | 7/9 [00:01<00:00,  7.11it/s] 89%|████████▉ | 8/9 [00:01<00:00,  6.94it/s]100%|██████████| 9/9 [00:01<00:00,  6.89it/s]
+I0000 00:00:1746200955.409192   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200955.413695   67201 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200955.417007   67195 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  4.56it/s] 22%|██▏       | 2/9 [00:00<00:01,  6.10it/s] 33%|███▎      | 3/9 [00:00<00:00,  6.92it/s] 44%|████▍     | 4/9 [00:00<00:00,  7.40it/s] 56%|█████▌    | 5/9 [00:00<00:00,  7.68it/s] 67%|██████▋   | 6/9 [00:00<00:00,  7.84it/s] 78%|███████▊  | 7/9 [00:00<00:00,  7.97it/s] 89%|████████▉ | 8/9 [00:01<00:00,  8.02it/s]100%|██████████| 9/9 [00:01<00:00,  8.18it/s]
+I0000 00:00:1746200956.940324   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200956.941873   67211 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200956.943215   67202 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  4.22it/s] 22%|██▏       | 2/9 [00:00<00:01,  5.73it/s] 33%|███▎      | 3/9 [00:00<00:00,  6.46it/s] 44%|████▍     | 4/9 [00:00<00:00,  6.88it/s] 56%|█████▌    | 5/9 [00:00<00:00,  7.11it/s] 67%|██████▋   | 6/9 [00:00<00:00,  7.26it/s] 78%|███████▊  | 7/9 [00:01<00:00,  7.35it/s] 89%|████████▉ | 8/9 [00:01<00:00,  7.42it/s]100%|██████████| 9/9 [00:01<00:00,  7.60it/s]
+I0000 00:00:1746200958.529895   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200958.533956   67221 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200958.537924   67214 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:02,  3.57it/s] 22%|██▏       | 2/9 [00:00<00:01,  4.68it/s] 33%|███▎      | 3/9 [00:00<00:01,  5.17it/s] 44%|████▍     | 4/9 [00:00<00:00,  5.70it/s] 56%|█████▌    | 5/9 [00:00<00:00,  6.18it/s] 67%|██████▋   | 6/9 [00:01<00:00,  6.60it/s] 78%|███████▊  | 7/9 [00:01<00:00,  6.90it/s] 89%|████████▉ | 8/9 [00:01<00:00,  7.09it/s]100%|██████████| 9/9 [00:01<00:00,  6.80it/s]
+I0000 00:00:1746200960.274198   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200960.276155   67231 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200960.277801   67222 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:02,  3.82it/s] 22%|██▏       | 2/9 [00:00<00:01,  5.21it/s] 33%|███▎      | 3/9 [00:00<00:01,  5.99it/s] 44%|████▍     | 4/9 [00:00<00:00,  6.43it/s] 56%|█████▌    | 5/9 [00:00<00:00,  6.71it/s] 67%|██████▋   | 6/9 [00:00<00:00,  6.89it/s] 78%|███████▊  | 7/9 [00:01<00:00,  6.98it/s] 89%|████████▉ | 8/9 [00:01<00:00,  7.08it/s]100%|██████████| 9/9 [00:01<00:00,  7.15it/s]
+I0000 00:00:1746200961.956844   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200961.960721   67241 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200961.962773   67232 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  4.34it/s] 22%|██▏       | 2/9 [00:00<00:01,  5.53it/s] 33%|███▎      | 3/9 [00:00<00:00,  6.00it/s] 44%|████▍     | 4/9 [00:00<00:00,  6.30it/s] 56%|█████▌    | 5/9 [00:00<00:00,  5.67it/s] 67%|██████▋   | 6/9 [00:01<00:00,  5.37it/s] 78%|███████▊  | 7/9 [00:01<00:00,  5.50it/s] 89%|████████▉ | 8/9 [00:01<00:00,  5.75it/s]100%|██████████| 9/9 [00:01<00:00,  6.24it/s]
+I0000 00:00:1746200963.811522   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200963.813371   67251 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200963.816936   67245 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  4.50it/s] 22%|██▏       | 2/9 [00:00<00:01,  5.88it/s] 33%|███▎      | 3/9 [00:00<00:00,  6.47it/s] 44%|████▍     | 4/9 [00:00<00:00,  6.42it/s] 56%|█████▌    | 5/9 [00:00<00:00,  6.02it/s] 67%|██████▋   | 6/9 [00:01<00:00,  5.75it/s] 78%|███████▊  | 7/9 [00:01<00:00,  5.64it/s] 89%|████████▉ | 8/9 [00:01<00:00,  5.72it/s]100%|██████████| 9/9 [00:01<00:00,  6.40it/s]
+I0000 00:00:1746200965.659651   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200965.663450   67262 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200965.665156   67255 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  4.32it/s] 22%|██▏       | 2/9 [00:00<00:01,  5.67it/s] 33%|███▎      | 3/9 [00:00<00:00,  6.24it/s] 44%|████▍     | 4/9 [00:00<00:00,  6.42it/s] 56%|█████▌    | 5/9 [00:00<00:00,  5.44it/s] 67%|██████▋   | 6/9 [00:01<00:00,  5.04it/s] 78%|███████▊  | 7/9 [00:01<00:00,  5.16it/s] 89%|████████▉ | 8/9 [00:01<00:00,  5.47it/s]100%|██████████| 9/9 [00:01<00:00,  6.03it/s]
+I0000 00:00:1746200967.569295   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200967.571008   67273 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200967.572924   67264 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  4.37it/s] 22%|██▏       | 2/9 [00:00<00:01,  5.74it/s] 33%|███▎      | 3/9 [00:00<00:00,  6.28it/s] 44%|████▍     | 4/9 [00:00<00:00,  6.28it/s] 56%|█████▌    | 5/9 [00:00<00:00,  5.84it/s] 67%|██████▋   | 6/9 [00:01<00:00,  4.95it/s] 78%|███████▊  | 7/9 [00:01<00:00,  4.75it/s] 89%|████████▉ | 8/9 [00:01<00:00,  4.97it/s]100%|██████████| 9/9 [00:01<00:00,  5.76it/s]
+I0000 00:00:1746200969.568896   67076 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1746200969.573117   67283 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 24.2.8-1ubuntu1~24.04.1), renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 3070 Laptop GPU (NVIDIA_PROPRIETARY))
+W0000 00:00:1746200969.575483   67277 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [00:00<00:01,  4.38it/s] 22%|██▏       | 2/9 [00:00<00:01,  4.80it/s] 33%|███▎      | 3/9 [00:00<00:01,  4.93it/s] 44%|████▍     | 4/9 [00:00<00:00,  5.24it/s] 44%|████▍     | 4/9 [00:00<00:01,  4.23it/s]
+Traceback (most recent call last):
+  File "/home/dio/attack_framework_with_HCB/train_attack.py", line 277, in <module>
+    main()
+  File "/home/dio/attack_framework_with_HCB/train_attack.py", line 223, in main
+    data, label = HCB_poison2(args, data, label, args.target_label, poison_ratio=args.poison_ratio)
+  File "/home/dio/attack_framework_with_HCB/data_poison.py", line 284, in HCB_poison2
+    data[i] = HCB_add_smile(data[i])
+  File "/home/dio/attack_framework_with_HCB/data_poison.py", line 275, in HCB_add_smile
+    smiling_image, _ = generate_smiling_image(prompt, pil_img)
+  File "/home/dio/attack_framework_with_HCB/data_poison.py", line 243, in generate_smiling_image
+    output = pipe(
+  File "/home/dio/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/dio/.local/lib/python3.10/site-packages/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_inpaint.py", line 1300, in __call__
+    init_latents_proper, noise, torch.tensor([noise_timestep])
+KeyboardInterrupt
